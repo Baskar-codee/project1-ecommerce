@@ -1,9 +1,12 @@
 import React from "react";
+import "../style.css";
 
 function Header() {
   return (
     <div>
-      header
+      <section>
+        <div className="">header</div>
+      </section>
     </div>
   );
 }

@@ -9,8 +9,8 @@ const root = createRoot(rootElement);
 
 root.render(
   <>
-   <App/>
-   <Header />
-   <Search />
+    {/* <Header/> */}
+    <App/>
+   {/* <Search/> */}
   </>
 );
